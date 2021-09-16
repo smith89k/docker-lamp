@@ -1,0 +1,15 @@
+# Ignore the environment credentials.
+.env
+.env.backup
+
+# Ignore the apache log(s).
+logs
+
+# Ignore the MySQL persistent data.
+database
+
+# Ignore the apache vhost configuration(s).
+apache/vhosts
+
+# Ignore the apache web root(s).
+apache/web
