@@ -1,8 +1,22 @@
-[![License MIT](https://img.shields.io/badge/License-MIT-blue)](https://lbesson.mit-license.org)
-[![Last Updated](https://img.shields.io/github/last-commit/asifiqbal91/docker-lamp/master?color=blue&label=Last%20Updated&style=flat-square)](https://github.com/asifiqbal91/docker-lamp)
+<div align="center">
 
+<img src="art/logo.svg" width="112" height="112" alt="docker-lamp logo">
 
-# LAMP (dockerized)
+# docker-lamp
+
+**Linux, Apache, MySQL and PHP in one docker compose file. Up and running in a minute.**
+
+<a href="https://github.com/smith89k/docker-lamp/blob/master/LICENSE"><img src="https://img.shields.io/github/license/smith89k/docker-lamp" alt="Licence"></a>
+<img src="https://img.shields.io/badge/stack-LAMP-1B6FD6" alt="LAMP">
+<img src="https://img.shields.io/badge/runs%20on-Docker%20Compose-1B6FD6" alt="Docker Compose">
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/banner-dark.png">
+  <img src="art/banner-light.png" alt="docker-lamp: the four layers of a LAMP stack and the two commands that start them." width="100%">
+</picture>
+
 Setup a LAMP instance using docker in a minute. It will be up and running with following services:
 - Linux
 - Apache

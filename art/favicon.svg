@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="docker-lamp logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#13243D"/><stop offset="1" stop-color="#060C16"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67B8FF"/><stop offset="1" stop-color="#1B6FD6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect x="3" y="3" width="506" height="506" rx="109" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="6"/>
+
+<g transform="translate(256 262) scale(1.18) translate(-256 -256)">
+
+  <rect x="104" y="118" width="304" height="282" rx="34" fill="#0F1B2E" stroke="#2B3C57" stroke-width="6"/>
+  <rect x="138" y="150" width="236" height="44" rx="14" fill="#F3B32B"/>
+  <rect x="156" y="166" width="70" height="12" rx="6" fill="#0F1B2E" opacity=".38"/>
+  <rect x="138" y="212" width="236" height="44" rx="14" fill="#D9453B"/>
+  <rect x="156" y="228" width="70" height="12" rx="6" fill="#0F1B2E" opacity=".38"/>
+  <rect x="138" y="274" width="236" height="44" rx="14" fill="#2F8F5B"/>
+  <rect x="156" y="290" width="70" height="12" rx="6" fill="#0F1B2E" opacity=".38"/>
+  <rect x="138" y="336" width="236" height="44" rx="14" fill="#7B6CF6"/>
+  <rect x="156" y="352" width="70" height="12" rx="6" fill="#0F1B2E" opacity=".38"/>
+  <path d="M104 406 C 150 388 190 422 236 404 C 282 386 322 420 408 398" fill="none" stroke="url(#wave)" stroke-width="16" stroke-linecap="round"/>
+
+</g>
+</svg>
